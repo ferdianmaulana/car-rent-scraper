@@ -1,0 +1,847 @@
+[
+  {
+    "name": "Toyota Grand New Avanza",
+    "koper": 2,
+    "penumpang": 6,
+    "transmission": "Manual",
+    "vendors": [
+      {
+        "name": "ATJ RENT CAR",
+        "facilities": [
+          "Kartu E-toll",
+          "Gratis Antar Jemput di Lokasi Vendor",
+          "Car Charger",
+          "Verifikasi Mudah",
+          "tiket Clean"
+        ],
+        "price": 196990,
+        "original_price": 299990
+      },
+      {
+        "name": "TRAC ASTRA",
+        "facilities": [
+          "Gratis Antar Jemput di Lokasi Vendor",
+          "Sewa Tanpa Deposit",
+          "Perjalanan Terlindungi Penuh",
+          "Verifikasi Mudah"
+        ],
+        "price": 380000,
+        "original_price": 470000
+      }
+    ]
+  },
+  {
+    "name": "Toyota Grand New Avanza",
+    "koper": 2,
+    "penumpang": 6,
+    "transmission": "Otomatis",
+    "vendors": [
+      {
+        "name": "ATJ RENT CAR",
+        "facilities": [
+          "Kartu E-toll",
+          "Gratis Antar Jemput di Lokasi Vendor",
+          "Car Charger",
+          "Verifikasi Mudah",
+          "tiket Clean"
+        ],
+        "price": 241400,
+        "original_price": 344400
+      }
+    ]
+  },
+  {
+    "name": "Honda New Brio",
+    "koper": 2,
+    "penumpang": 4,
+    "transmission": "Otomatis",
+    "vendors": [
+      {
+        "name": "ATJ RENT CAR",
+        "facilities": [
+          "Gratis Antar Jemput di Lokasi Vendor",
+          "Car Charger",
+          "Kartu E-toll",
+          "Verifikasi Mudah",
+          "tiket Clean"
+        ],
+        "price": 242000,
+        "original_price": 345000
+      }
+    ]
+  },
+  {
+    "name": "Daihatsu Sigra",
+    "koper": 2,
+    "penumpang": 5,
+    "transmission": "Manual",
+    "vendors": [
+      {
+        "name": "ATJ RENT CAR",
+        "facilities": [
+          "Gratis Antar Jemput di Lokasi Vendor",
+          "Car Holder",
+          "Car Charger",
+          "Verifikasi Mudah",
+          "tiket Clean"
+        ],
+        "price": 275000,
+        "original_price": null
+      }
+    ]
+  },
+  {
+    "name": "Toyota Agya",
+    "koper": 2,
+    "penumpang": 4,
+    "transmission": "Otomatis",
+    "vendors": [
+      {
+        "name": "JAKARTA TRANSPORT",
+        "facilities": [],
+        "price": 296500,
+        "original_price": 399500
+      }
+    ]
+  },
+  {
+    "name": "Toyota New Calya",
+    "koper": 2,
+    "penumpang": 5,
+    "transmission": "Manual",
+    "vendors": [
+      {
+        "name": "TRAC ASTRA",
+        "facilities": [
+          "Gratis Antar Jemput di Lokasi Vendor",
+          "Sewa Tanpa Deposit"
+        ],
+        "price": 300000,
+        "original_price": 390000
+      }
+    ]
+  },
+  {
+    "name": "Toyota All New Avanza 2022",
+    "koper": 2,
+    "penumpang": 6,
+    "transmission": "Otomatis",
+    "vendors": [
+      {
+        "name": "ATJ RENT CAR",
+        "facilities": [
+          "Car Holder",
+          "Car Charger",
+          "Gratis Antar Jemput di Lokasi Vendor",
+          "Verifikasi Mudah",
+          "tiket Clean"
+        ],
+        "price": 312000,
+        "original_price": 415000
+      },
+      {
+        "name": "THE LUCKY",
+        "facilities": [
+          "Air Mineral",
+          "Gratis Antar Jemput di Lokasi Vendor"
+        ],
+        "price": 317000,
+        "original_price": 420000
+      },
+      {
+        "name": "JAKARTA TRANSPORT",
+        "facilities": [],
+        "price": 346500,
+        "original_price": 449500
+      },
+      {
+        "name": "ALSO STAR",
+        "facilities": [
+          "Gratis Antar Jemput di Lokasi Vendor",
+          "Car Charger",
+          "Kartu E-toll",
+          "Car Holder",
+          "Gratis Antar Jemput Bandara"
+        ],
+        "price": 367000,
+        "original_price": 470000
+      },
+      {
+        "name": "TRAC ASTRA",
+        "facilities": [
+          "Gratis Antar Jemput di Lokasi Vendor",
+          "Gratis Antar Jemput Bandara",
+          "Sewa Tanpa Deposit",
+          "Perjalanan Terlindungi Penuh",
+          "Verifikasi Mudah"
+        ],
+        "price": 385000,
+        "original_price": 490000
+      },
+      {
+        "name": "BANDARA TRANSPORT",
+        "facilities": [
+          "Gratis Antar Jemput Bandara",
+          "Sewa Tanpa Deposit",
+          "Verifikasi Mudah"
+        ],
+        "price": 395000,
+        "original_price": null
+      },
+      {
+        "name": "UNICAR",
+        "facilities": [],
+        "price": 500000,
+        "original_price": null
+      },
+      {
+        "name": "ANANTALIA TRANS",
+        "facilities": [],
+        "price": 775000,
+        "original_price": null
+      }
+    ]
+  },
+  {
+    "name": "Daihatsu All New Xenia 2022",
+    "koper": 2,
+    "penumpang": 6,
+    "transmission": "Otomatis",
+    "vendors": [
+      {
+        "name": "JAKARTA TRANSPORT",
+        "facilities": [
+          "Air Mineral"
+        ],
+        "price": 321500,
+        "original_price": 424500
+      },
+      {
+        "name": "ALSO STAR",
+        "facilities": [
+          "Gratis Antar Jemput di Lokasi Vendor",
+          "Car Charger",
+          "Kartu E-toll",
+          "Gratis Antar Jemput Bandara",
+          "Gratis Antar Jemput di Stasiun"
+        ],
+        "price": 347000,
+        "original_price": 450000
+      }
+    ]
+  },
+  {
+    "name": "Toyota New Calya",
+    "koper": 2,
+    "penumpang": 5,
+    "transmission": "Otomatis",
+    "vendors": [
+      {
+        "name": "THE LUCKY",
+        "facilities": [],
+        "price": 375000,
+        "original_price": null
+      }
+    ]
+  },
+  {
+    "name": "Honda New Brio Facelift 2023",
+    "koper": 2,
+    "penumpang": 4,
+    "transmission": "Otomatis",
+    "vendors": [
+      {
+        "name": "ATJ RENT CAR",
+        "facilities": [
+          "Car Charger",
+          "Gratis Antar Jemput di Lokasi Vendor",
+          "Kartu E-toll",
+          "Verifikasi Mudah",
+          "tiket Clean"
+        ],
+        "price": 375000,
+        "original_price": null
+      }
+    ]
+  },
+  {
+    "name": "Toyota All New Avanza 2022",
+    "koper": 2,
+    "penumpang": 6,
+    "transmission": "Manual",
+    "vendors": [
+      {
+        "name": "TRAC ASTRA",
+        "facilities": [
+          "Gratis Antar Jemput di Lokasi Vendor",
+          "Gratis Antar Jemput Bandara",
+          "Sewa Tanpa Deposit",
+          "Perjalanan Terlindungi Penuh",
+          "Verifikasi Mudah"
+        ],
+        "price": 385000,
+        "original_price": 490000
+      }
+    ]
+  },
+  {
+    "name": "Toyota Calya",
+    "koper": 2,
+    "penumpang": 5,
+    "transmission": "Otomatis",
+    "vendors": [
+      {
+        "name": "JAKARTA TRANSPORT",
+        "facilities": [],
+        "price": 390000,
+        "original_price": null
+      }
+    ]
+  },
+  {
+    "name": "Honda Brio",
+    "koper": 2,
+    "penumpang": 4,
+    "transmission": "Otomatis",
+    "vendors": [
+      {
+        "name": "THE LUCKY",
+        "facilities": [],
+        "price": 390000,
+        "original_price": null
+      }
+    ]
+  },
+  {
+    "name": "Daihatsu Ayla",
+    "koper": 2,
+    "penumpang": 4,
+    "transmission": "Otomatis",
+    "vendors": [
+      {
+        "name": "ALSO STAR",
+        "facilities": [
+          "Gratis Antar Jemput di Lokasi Vendor",
+          "Car Charger",
+          "Kartu E-toll"
+        ],
+        "price": 400000,
+        "original_price": null
+      }
+    ]
+  },
+  {
+    "name": "Daihatsu New Ayla 2023",
+    "koper": 2,
+    "penumpang": 4,
+    "transmission": "Otomatis",
+    "vendors": [
+      {
+        "name": "ATJ RENT CAR",
+        "facilities": [
+          "Car Charger",
+          "tiket Clean",
+          "Kartu E-toll",
+          "Gratis Antar Jemput di Lokasi Vendor",
+          "Verifikasi Mudah"
+        ],
+        "price": 400000,
+        "original_price": null
+      }
+    ]
+  },
+  {
+    "name": "Suzuki All New Suzuki Ertiga",
+    "koper": 2,
+    "penumpang": 6,
+    "transmission": "Otomatis",
+    "vendors": [
+      {
+        "name": "ATJ RENT CAR",
+        "facilities": [
+          "tiket Clean",
+          "Gratis Antar Jemput di Lokasi Vendor",
+          "Kartu E-toll",
+          "Car Charger",
+          "Verifikasi Mudah"
+        ],
+        "price": 450000,
+        "original_price": null
+      }
+    ]
+  },
+  {
+    "name": "Mitsubishi Xpander Cross",
+    "koper": 2,
+    "penumpang": 6,
+    "transmission": "Otomatis",
+    "vendors": [
+      {
+        "name": "JAKARTA TRANSPORT",
+        "facilities": [],
+        "price": 499500,
+        "original_price": null
+      }
+    ]
+  },
+  {
+    "name": "Mitsubishi Xpander Facelift 2021",
+    "koper": 2,
+    "penumpang": 6,
+    "transmission": "Otomatis",
+    "vendors": [
+      {
+        "name": "JAKARTA TRANSPORT",
+        "facilities": [],
+        "price": 499500,
+        "original_price": null
+      }
+    ]
+  },
+  {
+    "name": "Toyota All New Rush",
+    "koper": 2,
+    "penumpang": 6,
+    "transmission": "Otomatis",
+    "vendors": [
+      {
+        "name": "JAKARTA TRANSPORT",
+        "facilities": [
+          "Air Mineral"
+        ],
+        "price": 499500,
+        "original_price": null
+      },
+      {
+        "name": "BANDARA TRANSPORT",
+        "facilities": [],
+        "price": 499500,
+        "original_price": null
+      },
+      {
+        "name": "THE LUCKY",
+        "facilities": [],
+        "price": 500000,
+        "original_price": null
+      },
+      {
+        "name": "ANANTALIA TRANS",
+        "facilities": [],
+        "price": 600000,
+        "original_price": null
+      }
+    ]
+  },
+  {
+    "name": "Honda HR-V",
+    "koper": 2,
+    "penumpang": 4,
+    "transmission": "Otomatis",
+    "vendors": [
+      {
+        "name": "THE LUCKY",
+        "facilities": [
+          "Air Mineral"
+        ],
+        "price": 500000,
+        "original_price": null
+      }
+    ]
+  },
+  {
+    "name": "Mitsubishi Xpander",
+    "koper": 2,
+    "penumpang": 6,
+    "transmission": "Otomatis",
+    "vendors": [
+      {
+        "name": "BATAVIA RENT",
+        "facilities": [
+          "tiket Clean"
+        ],
+        "price": 500000,
+        "original_price": null
+      },
+      {
+        "name": "THE LUCKY",
+        "facilities": [
+          "Air Mineral",
+          "Gratis Antar Jemput di Lokasi Vendor"
+        ],
+        "price": 500000,
+        "original_price": null
+      },
+      {
+        "name": "Obet Rent Car",
+        "facilities": [],
+        "price": 600000,
+        "original_price": null
+      }
+    ]
+  },
+  {
+    "name": "Toyota Innova Reborn",
+    "koper": 2,
+    "penumpang": 6,
+    "transmission": "Otomatis",
+    "vendors": [
+      {
+        "name": "CSS",
+        "facilities": [
+          "Gratis Antar Jemput di Lokasi Vendor",
+          "Kartu E-toll",
+          "Car Charger",
+          "Verifikasi Mudah",
+          "Car Holder"
+        ],
+        "price": 500000,
+        "original_price": null
+      },
+      {
+        "name": "TRAC ASTRA",
+        "facilities": [
+          "tiket Clean",
+          "Gratis Antar Jemput di Lokasi Vendor",
+          "Sewa Tanpa Deposit"
+        ],
+        "price": 600000,
+        "original_price": 690000
+      },
+      {
+        "name": "THE LUCKY",
+        "facilities": [
+          "Air Mineral",
+          "Gratis Antar Jemput di Lokasi Vendor"
+        ],
+        "price": 600000,
+        "original_price": null
+      },
+      {
+        "name": "Obet Rent Car",
+        "facilities": [],
+        "price": 650000,
+        "original_price": null
+      },
+      {
+        "name": "BATAVIA RENT",
+        "facilities": [
+          "tiket Clean",
+          "Gratis Antar Jemput di Lokasi Vendor"
+        ],
+        "price": 850000,
+        "original_price": null
+      },
+      {
+        "name": "ANANTALIA TRANS",
+        "facilities": [],
+        "price": 1000000,
+        "original_price": null
+      }
+    ]
+  },
+  {
+    "name": "Hyundai STARGAZER",
+    "koper": 2,
+    "penumpang": 6,
+    "transmission": "Otomatis",
+    "vendors": [
+      {
+        "name": "DVAS",
+        "facilities": [
+          "Car Charger",
+          "Kartu E-toll",
+          "Air Mineral"
+        ],
+        "price": 550000,
+        "original_price": null
+      },
+      {
+        "name": "ALSO STAR",
+        "facilities": [
+          "Kartu E-toll",
+          "Gratis Antar Jemput di Lokasi Vendor",
+          "Car Charger",
+          "Verifikasi Mudah",
+          "Sewa Tanpa Deposit"
+        ],
+        "price": 700000,
+        "original_price": null
+      }
+    ]
+  },
+  {
+    "name": "Wuling Motors Binguo EV",
+    "koper": 2,
+    "penumpang": 5,
+    "transmission": "Otomatis",
+    "vendors": [
+      {
+        "name": "BATAVIA RENT",
+        "facilities": [
+          "tiket Clean",
+          "Gratis Antar Jemput di Lokasi Vendor"
+        ],
+        "price": 600000,
+        "original_price": 900000
+      }
+    ]
+  },
+  {
+    "name": "Toyota Innova Reborn",
+    "koper": 2,
+    "penumpang": 6,
+    "transmission": "Manual",
+    "vendors": [
+      {
+        "name": "Obet Rent Car",
+        "facilities": [],
+        "price": 600000,
+        "original_price": null
+      }
+    ]
+  },
+  {
+    "name": "Toyota New Innova Reborn Facelift",
+    "koper": 2,
+    "penumpang": 6,
+    "transmission": "Otomatis",
+    "vendors": [
+      {
+        "name": "TRAC ASTRA",
+        "facilities": [],
+        "price": 600000,
+        "original_price": 690000
+      },
+      {
+        "name": "JAKARTA TRANSPORT",
+        "facilities": [],
+        "price": 700000,
+        "original_price": null
+      },
+      {
+        "name": "ALSO STAR",
+        "facilities": [
+          "Gratis Antar Jemput di Lokasi Vendor",
+          "Car Charger",
+          "Kartu E-toll"
+        ],
+        "price": 750000,
+        "original_price": null
+      },
+      {
+        "name": "ANANTALIA TRANS",
+        "facilities": [],
+        "price": 775000,
+        "original_price": null
+      }
+    ]
+  },
+  {
+    "name": "Toyota All New Innova Zenix",
+    "koper": 2,
+    "penumpang": 6,
+    "transmission": "Otomatis",
+    "vendors": [
+      {
+        "name": "TRAC ASTRA",
+        "facilities": [
+          "Gratis Antar Jemput di Lokasi Vendor",
+          "Sewa Tanpa Deposit",
+          "Verifikasi Mudah",
+          "Perjalanan Terlindungi Penuh"
+        ],
+        "price": 625000,
+        "original_price": 715000
+      },
+      {
+        "name": "ATJ RENT CAR",
+        "facilities": [
+          "Gratis Antar Jemput di Lokasi Vendor",
+          "Car Charger",
+          "Car Holder",
+          "Kartu E-toll",
+          "Verifikasi Mudah"
+        ],
+        "price": 900000,
+        "original_price": null
+      },
+      {
+        "name": "ANANTALIA TRANS",
+        "facilities": [
+          "Sopir Bisa Bahasa Inggris",
+          "Air Mineral"
+        ],
+        "price": 1000000,
+        "original_price": null
+      }
+    ]
+  },
+  {
+    "name": "Wuling Motors Cloud EV",
+    "koper": 2,
+    "penumpang": 4,
+    "transmission": "Otomatis",
+    "vendors": [
+      {
+        "name": "BATAVIA RENT",
+        "facilities": [],
+        "price": 850000,
+        "original_price": 1150000
+      }
+    ]
+  },
+  {
+    "name": "Toyota All New Innova Zenix Hybrid",
+    "koper": 2,
+    "penumpang": 6,
+    "transmission": "Otomatis",
+    "vendors": [
+      {
+        "name": "ALSO STAR",
+        "facilities": [
+          "Gratis Antar Jemput di Lokasi Vendor",
+          "Car Charger",
+          "Kartu E-toll"
+        ],
+        "price": 1100000,
+        "original_price": null
+      }
+    ]
+  },
+  {
+    "name": "BYD M6",
+    "koper": 2,
+    "penumpang": 6,
+    "transmission": "Otomatis",
+    "vendors": [
+      {
+        "name": "BATAVIA RENT",
+        "facilities": [],
+        "price": 1100000,
+        "original_price": 1400000
+      }
+    ]
+  },
+  {
+    "name": "Toyota Grand New Fortuner",
+    "koper": 2,
+    "penumpang": 6,
+    "transmission": "Otomatis",
+    "vendors": [
+      {
+        "name": "TRAC ASTRA",
+        "facilities": [],
+        "price": 1100000,
+        "original_price": 1190000
+      }
+    ]
+  },
+  {
+    "name": "Toyota New Fortuner VRZ",
+    "koper": 2,
+    "penumpang": 6,
+    "transmission": "Otomatis",
+    "vendors": [
+      {
+        "name": "ALSO STAR",
+        "facilities": [
+          "Gratis Antar Jemput di Lokasi Vendor",
+          "Car Holder",
+          "Kartu E-toll"
+        ],
+        "price": 1150000,
+        "original_price": null
+      }
+    ]
+  },
+  {
+    "name": "Toyota Fortuner 2019",
+    "koper": 2,
+    "penumpang": 6,
+    "transmission": "Otomatis",
+    "vendors": [
+      {
+        "name": "Obet Rent Car",
+        "facilities": [],
+        "price": 1200000,
+        "original_price": null
+      }
+    ]
+  },
+  {
+    "name": "Toyota All New Camry",
+    "koper": 2,
+    "penumpang": 4,
+    "transmission": "Otomatis",
+    "vendors": [
+      {
+        "name": "TRAC ASTRA",
+        "facilities": [
+          "Sewa Tanpa Deposit",
+          "Gratis Antar Jemput di Lokasi Vendor"
+        ],
+        "price": 1200000,
+        "original_price": 1290000
+      }
+    ]
+  },
+  {
+    "name": "Toyota New Fortuner GR 2023",
+    "koper": 2,
+    "penumpang": 6,
+    "transmission": "Otomatis",
+    "vendors": [
+      {
+        "name": "BATAVIA RENT",
+        "facilities": [],
+        "price": 1800000,
+        "original_price": null
+      }
+    ]
+  },
+  {
+    "name": "Honda All New Jazz RS",
+    "koper": 2,
+    "penumpang": 4,
+    "transmission": "Otomatis",
+    "vendors": [
+      {
+        "name": "JAKARTA TRANSPORT",
+        "facilities": [],
+        "price": 449500,
+        "original_price": null
+      }
+    ]
+  },
+  {
+    "name": "Mitsubishi Pajero Sport",
+    "koper": 2,
+    "penumpang": 6,
+    "transmission": "Otomatis",
+    "vendors": [
+      {
+        "name": "TRAC ASTRA",
+        "facilities": [],
+        "price": 1100000,
+        "original_price": 1190000
+      }
+    ]
+  },
+  {
+    "name": "Chery OMODA E5",
+    "koper": 2,
+    "penumpang": 4,
+    "transmission": "Otomatis",
+    "vendors": [
+      {
+        "name": "SMART RENT CAR",
+        "facilities": [
+          "Verifikasi Mudah",
+          "tiket Clean"
+        ],
+        "price": 1200000,
+        "original_price": null
+      }
+    ]
+  }
+]
